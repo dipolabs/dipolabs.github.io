@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Posting Blog Perdana dipolabs"
+title: "Posting Blog Perdana - dipolabs"
 date: 2016-02-20
 ---
 
